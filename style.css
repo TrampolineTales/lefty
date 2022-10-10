@@ -1,0 +1,7 @@
+div {
+  background:url('https://i.imgur.com/gb1G8Ye.gif') repeat;
+  height: 10000px;
+}
+
+html { overflow-y: hidden; }
+
